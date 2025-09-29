@@ -17,7 +17,7 @@ I combine **UI/UX design, software engineering, and digital education expertise*
 ---
 
 ## 🔗 Portfolio & Profiles
-- **Figma Portfolio:** [https://https://www.figma.com/@that_techgirl](https://https://www.figma.com/@that_techgirl)  
+- **Figma Portfolio:** [https://www.figma.com/@that_techgirl](https://www.figma.com/@that_techgirl)  
 - **LinkedIn:** [https://www.linkedin.com/in/favour-nnadi-b2912522b/](https://www.linkedin.com/in/favour-nnadi-b2912522b/)
 
 ---
