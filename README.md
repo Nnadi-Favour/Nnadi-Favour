@@ -28,7 +28,7 @@ I combine **UI/UX design, software engineering, and digital education expertise*
 ---
 
 ## 🛠 Languages & Tools
-Figma, Adobe XD, HTML5, CSS3, JavaScript, Bootstrap, Java, Android Studio, Google Workspace Tools, Design Thinking
+Figma, HTML5, CSS3, JavaScript, Bootstrap, Java, Android Studio, Google Workspace Tools, Design Thinking
 
 ---
 
