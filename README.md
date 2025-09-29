@@ -22,6 +22,16 @@ I combine **UI/UX design, software engineering, and digital education expertise*
 
 ---
 
+## 📫 How to Reach Me
+- **Email:** favour.nnadi.remote@gmail.com
+
+---
+
+## 🛠 Languages & Tools
+Figma, Adobe XD, HTML5, CSS3, JavaScript, Bootstrap, Java, Android Studio, Google Workspace Tools, Design Thinking
+
+---
+
 ## 📂 Projects & Experience
 - **UI/UX Projects:** Interactive prototypes, redesigns, and app mockups available on my Figma portfolio  
 - **Software Development Projects:** Responsive websites, mobile apps, and Java projects  
