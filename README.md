@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Favour Nnadi 👋
 
-<!--
-**Nnadi-Favour/Nnadi-Favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UI/UX Designer | Software Engineer | Google Certified Educator | Remote Digital Educator**
 
-Here are some ideas to get you started:
+I am passionate about designing **intuitive digital experiences** and empowering educators through technology.  
+I combine **UI/UX design, software engineering, and digital education expertise** to deliver solutions that delight users and enhance learning outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Expertise
+- **UI/UX Design:** Figma, Wireframing, Prototyping, Usability Testing
+- **Frontend & Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Mobile Development:** Java, Android Studio
+- **Digital Education & Google Workspace:** Google Classroom, Docs, Slides, Meet, etc
+- **Collaboration & Agile:** Design Thinking, Remote Teamwork, Project Management
+
+---
+
+## 🔗 Portfolio & Profiles
+- **Figma Portfolio:** [https://https://www.figma.com/@that_techgirl](https://https://www.figma.com/@that_techgirl)  
+- **LinkedIn:** [https://www.linkedin.com/in/favour-nnadi-b2912522b/](https://www.linkedin.com/in/favour-nnadi-b2912522b/)
+
+---
+
+## 📂 Projects & Experience
+- **UI/UX Projects:** Interactive prototypes, redesigns, and app mockups available on my Figma portfolio  
+- **Software Development Projects:** Responsive websites, mobile apps, and Java projects  
+- **Digital Education Projects:** Google Workspace workshops, school tech integration, and teacher training programs
+
+---
+
+## 🎯 Why Connect With Me
+I am **remote-ready** and open to opportunities in:  
+- UI/UX Design  
+- Frontend & Mobile Development  
+- Google Workspace Training & EdTech  
+- Digital Transformation Projects
